@@ -1,0 +1,31 @@
+C:\Users\CThom\source\repos\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\netcoreapp3.1\StudentRegistrationSystem.exe
+C:\Users\CThom\source\repos\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\netcoreapp3.1\StudentRegistrationSystem.deps.json
+C:\Users\CThom\source\repos\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\netcoreapp3.1\StudentRegistrationSystem.runtimeconfig.json
+C:\Users\CThom\source\repos\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\netcoreapp3.1\StudentRegistrationSystem.runtimeconfig.dev.json
+C:\Users\CThom\source\repos\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\netcoreapp3.1\StudentRegistrationSystem.dll
+C:\Users\CThom\source\repos\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\netcoreapp3.1\StudentRegistrationSystem.pdb
+C:\Users\CThom\source\repos\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\netcoreapp3.1\MaterialSkin.dll
+C:\Users\CThom\source\repos\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\netcoreapp3.1\StudentRegistrationSystem.csprojAssemblyReference.cache
+C:\Users\CThom\source\repos\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\netcoreapp3.1\StudentRegistrationSystem.csproj.GenerateResource.cache
+C:\Users\CThom\source\repos\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\netcoreapp3.1\StudentRegistrationSystem.AssemblyInfoInputs.cache
+C:\Users\CThom\source\repos\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\netcoreapp3.1\StudentRegistrationSystem.AssemblyInfo.cs
+C:\Users\CThom\source\repos\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\netcoreapp3.1\StudentRegistrationSystem.csproj.CoreCompileInputs.cache
+C:\Users\CThom\source\repos\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\netcoreapp3.1\StudentRegistrationSystem.csproj.CopyComplete
+C:\Users\CThom\source\repos\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\netcoreapp3.1\StudentRegistrationSystem.dll
+C:\Users\CThom\source\repos\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\netcoreapp3.1\StudentRegistrationSystem.pdb
+C:\Users\CThom\source\repos\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\netcoreapp3.1\StudentRegistrationSystem.genruntimeconfig.cache
+C:\Users\CThom\source\repos\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\netcoreapp3.1\StudentRegistrationSystem.MainPage.resources
+C:\Users\CThom\source\repos\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\netcoreapp3.1\StudentRegistrationSystem.Properties.Resources.resources
+C:\Users\CThom\source\repos\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\netcoreapp3.1\StudentRegistrationSystem.Registration.resources
+C:\Users\CThom\source\repos\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\CThom\source\repos\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\CThom\source\repos\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\CThom\source\repos\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\CThom\source\repos\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\CThom\source\repos\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\CThom\source\repos\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\netcoreapp3.1\StudentRegistrationSystem.Administrative.resources
+C:\Users\CThom\source\repos\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\netcoreapp3.1\StudentRegistrationSystem.Login.resources
+C:\Users\CThom\source\repos\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\netcoreapp3.1\StudentRegistrationSystem.Student.resources
+C:\Users\b\Documents\Systems Portfolio\Student Registration System\StudentRegistrationSystem\obj\Debug\netcoreapp3.1\StudentRegistrationSystem.csprojAssemblyReference.cache
+C:\Users\b\Documents\Systems Portfolio\Student Registration System\StudentRegistrationSystem\obj\Debug\netcoreapp3.1\StudentRegistrationSystem.dll
+C:\Users\b\Documents\Systems Portfolio\Student Registration System\StudentRegistrationSystem\obj\Debug\netcoreapp3.1\StudentRegistrationSystem.pdb
