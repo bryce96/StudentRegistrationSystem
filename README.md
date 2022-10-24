@@ -1,1 +1,1 @@
-# StudentRegistrationDatabase
+# StudentRegistrationDatabaseApplication 
